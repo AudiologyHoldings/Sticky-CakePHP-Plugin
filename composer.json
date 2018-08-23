@@ -1,0 +1,8 @@
+{
+  "name": "audiologyholdings/sticky",
+  "description": "Sticky-CakePHP-Plugin",
+  "type": "cakephp-plugin",
+  "require": {
+    "cakephp/cakephp": ">=2.5.5.4 <3.0.0"
+  }
+}
